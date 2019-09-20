@@ -58,7 +58,7 @@ h1 {
 .w3layouts-main{
     background-image: url('../images/bg.jpg');
     background-repeat: repeat-x;
-    animation: slideleft 50001cs infinite linear;
+    animation: slideleft 50001s infinite linear;
     -webkit-animation: slideleft 50001s infinite linear;
     background-size: cover;
 	-webkit-background-size:cover;
